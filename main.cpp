@@ -4,10 +4,8 @@
 #include <numeric>
 #include <vector>
 
-
-
 int main()
 
-{
- std::cout<<"Хелло травис";
+{	
+ std::cout << "Хелло - травис";
 }
