@@ -5,6 +5,7 @@
 #include <vector>
 
 std::vector<int> sort_a(std::vector<int> v)
+
 {
  const auto sz = v.size();
   for(auto i = 0u; i != sz-1; ++i)
